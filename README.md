@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @amit0-git
+- 👀 I’m interested in Python, Web Development
+- 🌱 I’m currently learning Python and C++
